@@ -22,8 +22,7 @@ if($result = mysqli_query($mysqli, $query)){
 	<title></title>
 </head>
 <body>
-		sjfdihfiewfew
-      <br>
-<a href="config/logout.php?do=logout">Выход</a>
+<br>
+	<a href="config/logout.php?do=logout">Выход</a>
 </body>
 </html>
